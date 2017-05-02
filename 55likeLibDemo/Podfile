@@ -1,0 +1,38 @@
+platform:ios, '6.0'
+
+target "55likeLibDemo" do
+pod 'SVProgressHUD', '0.9'
+pod 'MKNetworkKit', '0.87'
+pod 'Reachability' ,'3.1.1'
+pod 'KissXML', '5.0'
+pod 'Nimbus/Core', '~> 1.0.0'
+pod 'Nimbus/AttributedLabel'
+end
+
+#pod 'iCarousel', '1.7.6'
+#pod 'ZYQAssetPickerController',  '~> 1.0.0'
+
+
+#pod 'UMengAnalytics-NO-IDFA'
+#pod 'JSONKit',:head
+#pod 'ViewDeck' ,'2.3.1'
+#pod 'SDDataCache', :head
+#pod 'Foundation', :head
+
+#pod 'XLCycleScrollView', :path => '~/Documents/pods/XLCycleScrollView'
+#pod 'NIDropDown', :path => '~/Documents/pods/NIDropDown'
+#pod 'SBTableAlert', :path => '~/Documents/pods/SBTableAlert'
+#pod 'Calendar', :path => '~/Documents/pods/Calendar'
+#pod 'ZipArchive', '1.1.1'
+#pod 'Hessian', :head
+#pod 'BlocksKit', '1.8.2'
+#:path => '~/Documents/pods/Foundation'
+#pod 'XMPP', :path => '~/Documents/pods/XMPP'
+#pod 'Nimbus/Core', '1.0.0'
+#pod 'Nimbus/AttributedLabel', '1.0.0'
+#pod 'Nimbus/Badge', '1.0.0'
+#pod 'Nimbus/Models', '1.0.0'
+#pod 'JSONModel', '0.9.0'
+
+
+

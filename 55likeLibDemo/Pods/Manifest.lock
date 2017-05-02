@@ -1,0 +1,28 @@
+PODS:
+  - KissXML (5.0)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - Nimbus/AttributedLabel (1.0.0):
+    - Nimbus/Core
+  - Nimbus/Core (1.0.0)
+  - Reachability (3.1.1)
+  - SVProgressHUD (0.9)
+
+DEPENDENCIES:
+  - KissXML (= 5.0)
+  - MKNetworkKit (= 0.87)
+  - Nimbus/AttributedLabel
+  - Nimbus/Core (~> 1.0.0)
+  - Reachability (= 3.1.1)
+  - SVProgressHUD (= 0.9)
+
+SPEC CHECKSUMS:
+  KissXML: ce643413d618ad69886d0d43c3792b7dedfe476e
+  MKNetworkKit: 60ad3c83b62183e40ba75ce772c9427c25b520de
+  Nimbus: 4e9350d3443d12fad6a30d8481a630bfa0a7a053
+  Reachability: dd9aa4fb6667b9f787690a74f53cb7634ce99893
+  SVProgressHUD: 7038ae9d6a0bd2c87560d2699eba642eef82d41e
+
+PODFILE CHECKSUM: c6fb8389fe35320bb9ec869e755ae54c2dcf7849
+
+COCOAPODS: 1.2.1
